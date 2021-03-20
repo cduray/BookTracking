@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Título</string>
+    <string name="author">Autor</string>
+    <string name="start_date">Fecha iniciada</string>
+    <string name="end_date">Fecha de finalización</string>
+    <string name="rating">la valuación</string>
+    <string name="your_books">Tus libros</string>
+</resources>

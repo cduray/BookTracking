@@ -10,6 +10,7 @@ import java.util.Date;
 @Entity
 public class Book {
     @PrimaryKey(autoGenerate = true)
+    public int id;
     public String title;
     public String author;
     public String dateStarted;
